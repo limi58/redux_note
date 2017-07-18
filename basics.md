@@ -155,4 +155,5 @@ unsubscribe()
 # 配合 React 使用
 - 它和 react 配合的非常棒，需要安装 react-redux
 - 组件应该设计为容器组件和展示组件
+- *`connect()` 只要在 Provider 的子级，无论多深都可以奏效*
 - 搭配示例请看[这儿](http://redux.js.org/docs/basics/ExampleTodoList.html)

@@ -10,6 +10,7 @@
 - [基本](basics.md)
 - [高级](advanced.md)
 - [技巧](recipes.md)
+- [react-redux](react-redux.md)
 
 # version
 v3.5.2
